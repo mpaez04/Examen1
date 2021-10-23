@@ -1,0 +1,34 @@
+.Ticket{
+    display:flex;
+    text-align: center;
+    flex-direction:column;
+    justify-content: space-around;
+    min-height: 60vmin;
+    flex-wrap: wrap;
+    margin-top: 1vmin;
+    font-size: calc(5px + 2vmin);
+    min-width: 30vw;
+    min-height: 25vh;
+    border-radius: 5px;
+    background-color: #d6d3d3;
+}
+.List {
+    margin-top: 50px;
+  }
+.Botones{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+  }
+.Ticket2{
+    display:flex;
+    text-align: center;
+    flex-direction:column;
+    justify-content: space-around;
+    min-height: 60vmin;
+    flex-wrap: wrap;
+    margin-top: 11vmin;
+    font-size: calc(8px + 2vmin);
+    min-width: 40vw;
+    min-height: 45vh;
+  }
